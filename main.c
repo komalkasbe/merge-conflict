@@ -3,7 +3,8 @@ pseudo code
 Initial Function()
 {
 	puts("This is code from f1 branch");
-  //Sample Code
+	puts("This code is form f2 branch");
+       //Sample Code
 }
 
 Initial Security()
