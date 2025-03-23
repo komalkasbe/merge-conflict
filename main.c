@@ -7,7 +7,8 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+ puts("This is security patch");
+	//Sample Code
 }
 
 
