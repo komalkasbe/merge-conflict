@@ -2,6 +2,7 @@ pseudo code
 {
 Initial Function()
 {
+	puts("This code is form f2 branch");
   //Sample Code
 }
 
